@@ -3,8 +3,8 @@ package Data_Types;
 public class LabSession1 {
     public static void main(String[] args) {
         /*
-         Qn 1
-         Write a program to print college of ICT 7 times
+            Qn 1
+            Write a program to print college of ICT 7 times
         */
         String coict = "College of ICT";
         System.out.println(coict);
@@ -16,9 +16,9 @@ public class LabSession1 {
         System.out.println(coict);
         
         /*
-        Qn2 
-        Write a java program to solve the area of triangle
-        with base= 8cm and height=15cm
+            Qn2 
+            Write a java program to solve the area of triangle
+            with base= 8cm and height=15cm
         */
         double height=15,base=8;
         System.out.println(0.5*base*height);
