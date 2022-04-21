@@ -1,2 +1,2 @@
-# learning-java
+# Learning Java
 I once learnt java 😁
