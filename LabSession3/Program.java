@@ -10,14 +10,14 @@ public class Program {
     
     public static void main(String[] args) {
         int principal = 10000, rate = 5, time = 5, interest;
-        interest = (principal * rate * time) / 100;
-        System.out.println(interest);
+        // interest = (principal * rate * time) / 100;
+        // System.out.println(interest);
     
 
     /*
         Qn 2
         Takes in principle, rate and time and computes interest
-        if interest > 10 print UNACCEPTABLE RATE\
+        if interest > 10 print UNACCEPTABLE RATE
         else prints the simple interest
     */
 
@@ -28,6 +28,7 @@ public class Program {
         rate = input.nextInt();
         System.out.println("Please enter time");
         time = input.nextInt();
+        input.close();
 
         if(rate > 10){
             System.out.println("UNACCEPTABLE RATE");
