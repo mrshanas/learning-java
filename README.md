@@ -1,2 +1,2 @@
 # Learning Java
-I once learnt java 😁
+I once learnt java 😁😉
